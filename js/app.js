@@ -176,8 +176,8 @@ function dragDrop(e, ui) {
           containment: $stageContainer,
           tolerance: 'fit',
           cursor: 'pointer',
-          position: 'relative' //     Kommatecken??
-          //grid: [50, 50]             
+          position: 'relative', //     Kommatecken??
+          grid: [10, 10]             
                 })); //Graderna hittas i 'jquery.ui.rotatable.js'. Sök på namnet 'rotation snap'
         $clone.append('Double click to delete');
         if ($clone.is(".imag") === false) {
