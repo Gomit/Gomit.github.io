@@ -4,7 +4,7 @@ Drag and Drop functionality with a Canvas
 Project Name:
 ===============================
 ###Drag and drop functionalities
-![](images/Screen_Shot)
+![alt tag](http://s11.postimg.org/xh2x87hb7/Screen_Shot.png)
 
 Description
 ===============================
